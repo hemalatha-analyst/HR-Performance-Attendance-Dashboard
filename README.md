@@ -19,9 +19,16 @@ To analyze employee performance, attendance, and productivity using Excel.
 - Identified high and low performers
 - Analyzed attendance patterns
 - Compared department performance
+- 
+## 📊 Dashboard Preview
 
-## 📷 Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/hemalatha-analyst/HR-Performance-Attendance-Dashboard/main/HR_Employee_Performance_Dashboard.png)
+
+---
+
+## 📥 Download Excel Dashboard
+
+[Click here to download the Excel Dashboard](https://github.com/hemalatha-analyst/HR-Performance-Attendance-Dashboard/blob/main/HR_Employee_Performance%20%26%20Attendance_Dashboard_xlsx.xlsx)
 
 ## ✅ Conclusion
 This project helps HR teams make data-driven decisions regarding employee performance and productivity.
